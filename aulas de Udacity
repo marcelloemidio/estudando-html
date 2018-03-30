@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<html>
+
+<head><link rel="stylesheet" href="style.css"></head>
+
+<body>
+
+    <div class="title">My App</div>
+    <div class="app">
+        <div class="screenshot">image</div>
+        <div class="description">ewrwerwerwerw
+            werwerwerwerwerwerwerwerwerewrwerwerwerwerwerwerweerwe
+            eewrwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+            werwwwwwwwwwwwwwwwwwww
+            ewrrrrrrrrrrrrrrrr</div>
+    </div>
+
+</body>
+
+</html>
